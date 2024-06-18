@@ -21,4 +21,4 @@ This is link of repository: https://github.com/NarSulEsz/Searching-For-Movies
 
 This is link of web-site itself: https://narsulesz.github.io/Searching-For-Movies/
 
-Screenshot : https://github.com/NarSulEsz/WheatherPredictor/blob/main/assets/Screenshot%20WeatherPredictor.png
+Screenshot : https://github.com/NarSulEsz/Searching-For-Movies/blob/main/assets/Screenshot%202024-06-17%20220424.png
